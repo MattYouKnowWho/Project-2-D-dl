@@ -17,6 +17,8 @@
 
 dudl.herokuapp.com
 
+<img width="1026" alt="Screen Shot 2022-09-18 at 4 30 01 PM" src="https://user-images.githubusercontent.com/99387661/190932763-c3056bb1-f253-445f-b986-1f90078f7e0b.png">
+
 ## Installation 📥
 
 ## Usage 🖥
